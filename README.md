@@ -1,2 +1,2 @@
 Hello Guys
-There are many games
+There are many games.
